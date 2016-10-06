@@ -1,0 +1,5 @@
+bin\Release\Encapsulation.exe
+bin\Release\Encapsulation.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Encapsulation.exe
+obj\Release\Encapsulation.pdb

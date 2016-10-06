@@ -1,0 +1,16 @@
+bin\Debug\Punch.exe
+bin\Debug\Punch.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Punch.Properties.Resources.resources
+obj\Debug\Punch.punch.resources
+obj\Debug\Punch.csproj.GenerateResource.Cache
+obj\Debug\Punch.exe
+obj\Debug\Punch.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Punch.Properties.Resources.resources
+obj\Release\Punch.punch.resources
+obj\Release\Punch.csproj.GenerateResource.Cache
+bin\Release\Punch.exe
+bin\Release\Punch.pdb
+obj\Release\Punch.exe
+obj\Release\Punch.pdb
